@@ -5,7 +5,7 @@ $('.counterUp').counterUp({
 $('.service_body').slick({
     slidesToShow: 3,
     slidesToScroll: 1,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 2000,
     centerMode: true,
     centerPadding: "0px",
